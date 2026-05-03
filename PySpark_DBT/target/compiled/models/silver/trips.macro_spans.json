@@ -1,0 +1,132 @@
+[
+  {
+    "macro_span": {
+      "start": {
+        "line": 1,
+        "col": 1,
+        "index": 0
+      },
+      "stop": {
+        "line": 1,
+        "col": 63,
+        "index": 62
+      }
+    },
+    "expanded_span": {
+      "start": {
+        "line": 1,
+        "col": 1,
+        "index": 0
+      },
+      "stop": {
+        "line": 1,
+        "col": 1,
+        "index": 0
+      }
+    }
+  },
+  {
+    "macro_span": {
+      "start": {
+        "line": 3,
+        "col": 1,
+        "index": 66
+      },
+      "stop": {
+        "line": 15,
+        "col": 5,
+        "index": 319
+      }
+    },
+    "expanded_span": {
+      "start": {
+        "line": 3,
+        "col": 1,
+        "index": 4
+      },
+      "stop": {
+        "line": 3,
+        "col": 1,
+        "index": 4
+      }
+    }
+  },
+  {
+    "macro_span": {
+      "start": {
+        "line": 19,
+        "col": 1,
+        "index": 333
+      },
+      "stop": {
+        "line": 21,
+        "col": 13,
+        "index": 417
+      }
+    },
+    "expanded_span": {
+      "start": {
+        "line": 7,
+        "col": 1,
+        "index": 18
+      },
+      "stop": {
+        "line": 29,
+        "col": 1,
+        "index": 250
+      }
+    }
+  },
+  {
+    "macro_span": {
+      "start": {
+        "line": 23,
+        "col": 6,
+        "index": 426
+      },
+      "stop": {
+        "line": 23,
+        "col": 44,
+        "index": 464
+      }
+    },
+    "expanded_span": {
+      "start": {
+        "line": 31,
+        "col": 6,
+        "index": 259
+      },
+      "stop": {
+        "line": 31,
+        "col": 36,
+        "index": 289
+      }
+    }
+  },
+  {
+    "macro_span": {
+      "start": {
+        "line": 25,
+        "col": 1,
+        "index": 468
+      },
+      "stop": {
+        "line": 30,
+        "col": 12,
+        "index": 628
+      }
+    },
+    "expanded_span": {
+      "start": {
+        "line": 33,
+        "col": 1,
+        "index": 293
+      },
+      "stop": {
+        "line": 33,
+        "col": 1,
+        "index": 293
+      }
+    }
+  }
+]
